@@ -4,7 +4,10 @@ description: Useful online resources to get information about genes, proteins, t
 permalink: /useful-web-resources
 ---
 
-## USEFUL WEB RESOURCES (AU ARU)
+Aarhus University / Atherosclerosis Research Unit
+
+## Links to useful Web resources
+
 
 ## Human databases
 
