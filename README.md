@@ -3,4 +3,10 @@ theme: jekyll-theme-minimal
 title: AM Hub
 ---
 
-This is my website
+# Anton Markov Hub
+
+This is my hub of notes and reports. Enjoy.
+
+* [Useful Web Resources](useful_resources_aru.md)
+
+
