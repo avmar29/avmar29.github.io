@@ -1,2 +1,4 @@
 name: AM Hub
 title: null
+plugins:
+  - jemoji
