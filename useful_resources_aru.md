@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Useful Web Resources"
 description: Useful online resources to get information about genes, proteins, their expression and regulation in different cells and tissues of human and animal models.
 permalink: /useful-web-resources
