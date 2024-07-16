@@ -3,7 +3,7 @@ theme: jekyll-theme-minimal
 title: AM Hub
 ---
 
-# Anton Markov Hub
+# Anton Markov's Hub
 
 This is my hub of notes and reports. Enjoy.
 
