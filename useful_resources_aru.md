@@ -8,7 +8,7 @@ Aarhus University / Atherosclerosis Research Unit
 
 ## Links to useful Web resources
 
-### :standing_person: Human databases
+### :standing_person:   Human databases
 
 | Database                                                                            | Description                                                                                                                                                                                                                                                                       |
 | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -21,7 +21,7 @@ Aarhus University / Atherosclerosis Research Unit
 | [**Cardiovascular Disease Knowledge Portal (CVDKP)**](https://cvd.hugeamp.org/)     | a platform for browsing, searching, and analysis of human genetic information linked to myocardial infarction, atrial fibrillation, and related traits, while protecting the integrity and confidentiality of the underlying data                                                 |
 
 
-### :mouse2: Mouse databases
+### :mouse2:   Mouse databases
 
 | Database                                                                                 | Description                                                                                                                                                                            |
 | ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -29,7 +29,7 @@ Aarhus University / Atherosclerosis Research Unit
 | [**International Mouse Phenotyping Consortium (IMPC)**](https://www.mousephenotype.org/) | The International Mouse Phenotyping Consortium (IMPC) is an international effort by 21 research institutions to identify the function of every protein-coding gene in the mouse genome |
 
 
-### :compass: Single-cell atlases, aggregators and databases
+### :compass:   Single-cell atlases, aggregators and databases
 
 | Database                                                                                          | Description                                                                                                                                                                                           |
 | ------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -44,7 +44,7 @@ Aarhus University / Atherosclerosis Research Unit
 | [**PlaqView**](https://www.plaqview.com/)                                                         | a standalone, interactive, and reproducible Shiny/R-based tool to explore **cardiovascular single-cell genomic datasets**                                                                             |
 
 
-### :microscope: Cell type exploration and annotation
+### :microscope:   Cell type exploration and annotation
 
 | Database                                                                                            | Description                                                                                                          |
 | --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
@@ -52,9 +52,9 @@ Aarhus University / Atherosclerosis Research Unit
 | [**CellTypist**](https://www.celltypist.org/)                                                       | an automated cell type annotation tool and encyclopedia for scRNA-seq datasets                                       |
 | [**CellMarker**](http://xteam.xbio.top/CellMarker/index.jsp)                                        | a user-friendly interface for browsing, searching and downloading markers of diverse cell types of different tissues |
 | [**Fibroblast heterogeneity**](https://betsholtzlab.org/Publications/FibroblastMural/database.html) | a database of gene expression in adult mouse fibroblasts and **vascular mural cells** isolated from multiple organs  
-|
 
-### :books: Genomics databases
+
+### :books:   Genomics databases
 
 | Database                                                         | Description                                                                                                                                                      |
 | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -63,7 +63,8 @@ Aarhus University / Atherosclerosis Research Unit
 | [**Ensembl**](https://www.ensembl.org/index.html)                | a genome browser for vertebrate genomes that supports research in comparative genomics, evolution, sequence variation and transcriptional regulation             |
 | [**Harmonizome**](https://maayanlab.cloud/Harmonizome/)          | allows search for genes or proteins and their functional terms extracted and organized from over a hundred publicly available resources                          |
 
-### :open_book: Transcriptomics databases
+
+### :open_book:   Transcriptomics databases
 
 | Database                                               | Description                                                                                                                                                                                                            |
 | ------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
