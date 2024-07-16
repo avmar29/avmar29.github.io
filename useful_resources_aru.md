@@ -1,7 +1,8 @@
 ---
-theme: jekyll-theme-minimal
-title: Useful Web Resources
+layout: page
+title: "Useful Web Resources"
 description: Useful online resources to get the information about genes, proteins, their expression and regulation in different cells and tissues of human and animal models.
+permalink: /useful-web-resources
 ---
 
 ## USEFUL WEB RESOURCES (AU ARU)
