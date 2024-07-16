@@ -8,8 +8,7 @@ Aarhus University / Atherosclerosis Research Unit
 
 ## Links to useful Web resources
 
-
-## Human databases
+### :standing_person: Human databases
 
 | Database                                                                            | Description                                                                                                                                                                                                                                                                       |
 | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -22,7 +21,7 @@ Aarhus University / Atherosclerosis Research Unit
 | [**Cardiovascular Disease Knowledge Portal (CVDKP)**](https://cvd.hugeamp.org/)     | a platform for browsing, searching, and analysis of human genetic information linked to myocardial infarction, atrial fibrillation, and related traits, while protecting the integrity and confidentiality of the underlying data                                                 |
 
 
-## Mouse databases
+### Mouse databases
 
 | Database                                                                                 | Description                                                                                                                                                                            |
 | ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -30,7 +29,7 @@ Aarhus University / Atherosclerosis Research Unit
 | [**International Mouse Phenotyping Consortium (IMPC)**](https://www.mousephenotype.org/) | The International Mouse Phenotyping Consortium (IMPC) is an international effort by 21 research institutions to identify the function of every protein-coding gene in the mouse genome |
 
 
-## Single-cell atlases, aggregators and databases
+### Single-cell atlases, aggregators and databases
 
 | Database                                                                                          | Description                                                                                                                                                                                           |
 | ------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -45,7 +44,7 @@ Aarhus University / Atherosclerosis Research Unit
 | [**PlaqView**](https://www.plaqview.com/)                                                         | a standalone, interactive, and reproducible Shiny/R-based tool to explore **cardiovascular single-cell genomic datasets**                                                                             |
 
 
-## Cell type exploration and annotation
+### Cell type exploration and annotation
 
 | Database                                                                                            | Description                                                                                                          |
 | --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
@@ -55,7 +54,7 @@ Aarhus University / Atherosclerosis Research Unit
 | [**Fibroblast heterogeneity**](https://betsholtzlab.org/Publications/FibroblastMural/database.html) | a database of gene expression in adult mouse fibroblasts and **vascular mural cells** isolated from multiple organs  
 |
 
-## Main genomic databases and aggregators
+### Main genomic databases and aggregators
 
 | Database                                                         | Description                                                                                                                                                      |
 | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -64,7 +63,7 @@ Aarhus University / Atherosclerosis Research Unit
 | [**Ensembl**](https://www.ensembl.org/index.html)                | a genome browser for vertebrate genomes that supports research in comparative genomics, evolution, sequence variation and transcriptional regulation             |
 | [**Harmonizome**](https://maayanlab.cloud/Harmonizome/)          | allows search for genes or proteins and their functional terms extracted and organized from over a hundred publicly available resources                          |
 
-## Transcriptomics databases
+### Transcriptomics databases
 
 | Database                                               | Description                                                                                                                                                                                                            |
 | ------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
