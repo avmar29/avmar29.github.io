@@ -26,7 +26,8 @@ Aarhus University / Atherosclerosis Research Unit
 | Database                                                                                 | Description                                                                                                                                                                            |
 | ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [**Mouse Genome Informatics (MGI)**](https://www.informatics.jax.org/)                   | an international database resource for the laboratory mouse, providing integrated genetic, genomic, and biological data to facilitate the study of human health and disease            |
-| [**International Mouse Phenotyping Consortium (IMPC)**](https://www.mousephenotype.org/) | The International Mouse Phenotyping Consortium (IMPC) is an international effort by 21 research institutions to identify the function of every protein-coding gene in the mouse genome |
+| [**International Mouse Phenotyping Consortium (IMPC)**](https://www.mousephenotype.org/) | an international effort by 21 research institutions to identify the function of every protein-coding gene in the mouse genome |
+| [**EMAGE**](https://www.emouseatlas.org/emage/home.php) | a database of in situ gene expression data in the mouse embryo and an accompanying suite of tools to search and analyse the data |
 
 
 ### :compass:   Single-cell atlases, aggregators and databases
