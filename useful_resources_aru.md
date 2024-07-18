@@ -4,37 +4,39 @@ description: Useful online resources to get information about genes, proteins, t
 permalink: /useful-web-resources
 ---
 
-Aarhus University / Atherosclerosis Research Unit
+Aarhus University / Atherosclerosis Research Unit (unofficial)
 
-## Links to useful Web resources
+## Useful web resources
+
+Here you can find the links to web resources useful for retrieving information about genes, their products, regulation, expression in different cell types, pathways, etc.
 
 ### :standing_person:   Human databases
 
-| Database                                                                            | Description                                                                                                                                                                                                                                                                       |
-| ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [**GeneCards**](https://www.genecards.org/)<br>                                    | a searchable, integrative database that provides comprehensive, user-friendly information on all annotated and predicted human genes                                                                                                                                              |
+| Database                                                                        | Description                                                                                                                                                                                                                        |
+| ------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [**GeneCards**](https://www.genecards.org/)<br>                                 | a searchable, integrative database that provides comprehensive, user-friendly information on all annotated and predicted human genes                                                                                               |
 | [**Human Protein Atlas**](https://www.proteinatlas.org/)                        | an open-access resource for human proteins; includes protein expression and localization in tissue; protein subcellular location; bulk and single-cell RNA expression in tissue; RNA expression in cell lines; blood protein level |
-| [**Genotype-Tissue Expression (GTEx) Portal**](https://www.gtexportal.org/home) | a comprehensive public resource for researchers studying tissue and cell-specific gene expression and regulation across individuals, development, and species (NIH)                                                                                                               |
-| [**DISGENET**](https://www.disgenet.com/)                                           | a discovery platform containing one of the largest publicly available collections of genes and variants associated to human diseases                                                                                                                                              |
-| [**GWAS Catalog**](https://www.ebi.ac.uk/gwas/)                                     | the NHGRI-EBI Catalog of human genome-wide association studies                                                                                                                                                                                                                    |
-| [**Online Mendelian Inheritance in Man (OMIM)**](https://www.omim.org/)             | a catalogue of human genes and genetic disorders and traits, with particular focus on the molecular relationship between genetic variation and phenotypic expression                                                                                                                |
-| [**Cardiovascular Disease Knowledge Portal (CVDKP)**](https://cvd.hugeamp.org/)     | a platform for browsing, searching, and analysis of human genetic information linked to myocardial infarction, atrial fibrillation, and related traits, while protecting the integrity and confidentiality of the underlying data                                                 |
+| [**Genotype-Tissue Expression (GTEx) Portal**](https://www.gtexportal.org/home) | a comprehensive public resource for researchers studying tissue and cell-specific gene expression and regulation across individuals, development, and species (NIH)                                                                |
+| [**DISGENET**](https://www.disgenet.com/)                                       | a discovery platform containing one of the largest publicly available collections of genes and variants associated to human diseases                                                                                               |
+| [**GWAS Catalog**](https://www.ebi.ac.uk/gwas/)                                 | the NHGRI-EBI Catalog of human genome-wide association studies                                                                                                                                                                     |
+| [**Online Mendelian Inheritance in Man (OMIM)**](https://www.omim.org/)         | a catalogue of human genes and genetic disorders and traits, with particular focus on the molecular relationship between genetic variation and phenotypic expression                                                               |
+| [**Cardiovascular Disease Knowledge Portal (CVDKP)**](https://cvd.hugeamp.org/) | a platform for browsing, searching, and analysis of human genetic information linked to myocardial infarction, atrial fibrillation, and related traits, while protecting the integrity and confidentiality of the underlying data  |
 
 
 ### :mouse2:   Mouse databases
 
-| Database                                                                                 | Description                                                                                                                                                                            |
-| ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [**Mouse Genome Informatics (MGI)**](https://www.informatics.jax.org/)                   | an international database resource for the laboratory mouse, providing integrated genetic, genomic, and biological data to facilitate the study of human health and disease            |
-| [**International Mouse Phenotyping Consortium (IMPC)**](https://www.mousephenotype.org/) | an international effort by 21 research institutions to identify the function of every protein-coding gene in the mouse genome |
-| [**EMAGE**](https://www.emouseatlas.org/emage/home.php) | a database of in situ gene expression data in the mouse embryo and an accompanying suite of tools to search and analyse the data |
+| Database                                                                                 | Description                                                                                                                                                                 |
+| ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [**Mouse Genome Informatics (MGI)**](https://www.informatics.jax.org/)                   | an international database resource for the laboratory mouse, providing integrated genetic, genomic, and biological data to facilitate the study of human health and disease |
+| [**International Mouse Phenotyping Consortium (IMPC)**](https://www.mousephenotype.org/) | an international effort by 21 research institutions to identify the function of every protein-coding gene in the mouse genome                                               |
+| [**EMAGE**](https://www.emouseatlas.org/emage/home.php)                                  | a database of in situ gene expression data in the mouse embryo and an accompanying suite of tools to search and analyse the data                                            |
 
 
 ### :compass:   Single-cell atlases, aggregators and databases
 
 | Database                                                                                          | Description                                                                                                                                                                                           |
 | ------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [**Tabula Sapiens**](https://tabula-sapiens-portal.ds.czbiohub.org/)                              | a *human* cell atlas of nearly 500,000 cells from 24 organs of 15 normal human subjects ([Chang-Zuckerberg Biohub](https://www.czbiohub.org/); USA)                                                   |
+| [**Tabula Sapiens**](https://tabula-sapiens-portal.ds.czbiohub.org/)                              | a cell atlas of nearly 500,000 cells from 24 organs of normal *human* subjects ([Chang-Zuckerberg Biohub](https://www.czbiohub.org/); USA)                                                            |
 | [**Human BioMolecular Atlas Program (HuBMAP) Data Portal**](https://portal.hubmapconsortium.org/) | an open platform to discover, visualize and download standardized healthy *human* single-cell organ and tissue data ([NIH](https://commonfund.nih.gov/HuBMAP); USA)                                   |
 | [**Human Cell Landscape (HCL)**](https://db.cngb.org/HCL/index.html)                              | a cell type composition of major *human* organs determined using single-cell RNA sequencing ([Ming chen's Lab](http://bis.zju.edu.cn/) and [Guoji Guo's Lab](http://person.zju.edu.cn/en/ggj); China) |
 | [**Human Cell Atlas (HCA) Data Portal**](https://data.humancellatlas.org/)                        | browse the collection of publicly available human and mouse single-cell datasets catalogued by organs (interactive exploration is available via other services)                                       |
@@ -42,7 +44,7 @@ Aarhus University / Atherosclerosis Research Unit
 | [**Single Cell Expression Atlas**](https://www.ebi.ac.uk/gxa/sc/home)                             | a single-cell gene expression across 21 species aggregated from the studies supported by or collaborated with EMBL-EBI                                                                                |
 | [**UCSC Cell Browser**](https://cells.ucsc.edu/)                                                  | a free website where scientists can explore a growing collection of single-cell datasets                                                                                                              |
 | [**Single Cell Portal**](https://singlecell.zendesk.com/hc/en-us)                                 | a platform to facilitate the sharing scientific results, and dissemination data generated from single-cell technologies                                                                               |
-| [**PlaqView**](https://www.plaqview.com/)                                                         | a standalone, interactive, and reproducible Shiny/R-based tool to explore **cardiovascular single-cell genomic datasets**                                                                             |
+| [**PlaqView**](https://www.plaqview.com/)                                                         | a standalone, interactive, and reproducible Shiny/R-based tool to explore *cardiovascular single-cell genomic datasets*                                                                               |
 
 
 ### :microscope:   Cell type exploration and annotation
@@ -52,7 +54,7 @@ Aarhus University / Atherosclerosis Research Unit
 | [**CellGuide**](https://cellxgene.cziscience.com/cellguide)                                         | a comprehensive resource for knowledge about cell types ([CZ Biohub](https://www.czbiohub.org/); USA)                |
 | [**CellTypist**](https://www.celltypist.org/)                                                       | an automated cell type annotation tool and encyclopedia for scRNA-seq datasets                                       |
 | [**CellMarker**](http://xteam.xbio.top/CellMarker/index.jsp)                                        | a user-friendly interface for browsing, searching and downloading markers of diverse cell types of different tissues |
-| [**Fibroblast heterogeneity**](https://betsholtzlab.org/Publications/FibroblastMural/database.html) | a database of gene expression in adult mouse fibroblasts and **vascular mural cells** isolated from multiple organs  
+| [**Fibroblast heterogeneity**](https://betsholtzlab.org/Publications/FibroblastMural/database.html) | a database of gene expression in adult mouse fibroblasts and *vascular mural cells* isolated from multiple organs    |
 
 
 ### :books:   Genomics databases
@@ -65,10 +67,23 @@ Aarhus University / Atherosclerosis Research Unit
 | [**Harmonizome**](https://maayanlab.cloud/Harmonizome/)          | allows search for genes or proteins and their functional terms extracted and organized from over a hundred publicly available resources                          |
 
 
-### :open_book:   Transcriptomics databases
+### :open_book:   Transcriptomics databases and tools
 
-| Database                                               | Description                                                                                                                                                                                                            |
-| ------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [**Expression Atlas**](https://www.ebi.ac.uk/gxa/home) | Bulk gene expression across 66 species aggregated from the studies supported by or collaborated with EMBL-EBI                                                                                                          |
-| [**Bgee**](https://www.bgee.org/)                      | a database for retrieval and comparison of gene expression patterns across multiple animal species                                                                                                                     |
-| [**STARNET**](http://starnet.mssm.edu/)                | The STARNET (Stockholm-Tartu Atherosclerosis Reverse Networks Engineering Task) study aims to characterize tissue gene expression from patients with **coronary artery disease (CAD)** matched to patients without CAD |
+| Database                                                            | Description                                                                                                                                                                                                      |
+| ------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [**Gene Expression Omnibus (GEO)**](https://www.ebi.ac.uk/gxa/home) | a public functional genomics data repository supporting MIAME-compliant microarray- and sequence-based data submission (NIH)                                                                                     |
+| [**ArrayExpress**](https://www.ebi.ac.uk/biostudies/arrayexpress)   | a functional genomics data collection (ArrayExpress), stores data from high-throughput functional genomics experiments, and provides data for reuse to the research community (EMBL-EBI)                         |
+| [**Expression Atlas**](https://www.ebi.ac.uk/gxa/home)              | an open science resource that gives users a powerful way to find information about gene and protein expression (EMBL-EBI)                                                                                        |
+| [**Bgee**](https://www.bgee.org/)                                   | a database for retrieval and comparison of gene expression patterns across multiple animal species (Swiss Institute of Bioinformatics)                                                                           |
+| [**GREIN**](https://www.ilincs.org/apps/grein/)                     | an interactive web platform that provides user-friendly options to explore and analyze GEO RNA-seq data                                                                                                          |
+| [**Refine.bio**](https://www.refine.bio/)                           | a multi-organism collection of genome wide gene expression data obtained from publicly available sources like Gene Expression Omnibus (GEO), ArrayExpress, and Sequence Read Archive (SRA)                       |
+| [**STARNET**](http://starnet.mssm.edu/)                             | STARNET (Stockholm-Tartu Atherosclerosis Reverse Networks Engineering Task) study aims to characterize tissue gene expression from patients with *coronary artery disease (CAD)* matched to patients without CAD |
+
+
+### :roller_coaster:   Pathway databases
+
+| Database                                                    | Description                                                                                                                         |
+| ----------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| [**KEGG Pathway**](https://www.genome.jp/kegg/pathway.html) | a collection of manually drawn pathway maps representing our knowledge of the molecular interaction, reaction and relation networks |
+| [**Reactome**](https://reactome.org/)                       | a free, open-source, curated and peer-reviewed pathway database                                                                     |
+| [**WikiPathways**](https://www.wikipathways.org/)           | an open science platform for biological pathways contributed, updated, and used by the research community                           |
