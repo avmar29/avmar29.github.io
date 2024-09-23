@@ -33,6 +33,13 @@ Here you can find the links to web resources useful for retrieving information a
 | [**International Mouse Phenotyping Consortium (IMPC)**](https://www.mousephenotype.org/) | an international effort by 21 research institutions to identify the function of every protein-coding gene in the mouse genome                                               |
 | [**EMAGE**](https://www.emouseatlas.org/emage/home.php)                                  | a database of in situ gene expression data in the mouse embryo and an accompanying suite of tools to search and analyse the data                                            |
 
+### :pig:   Pig databases
+
+| Database                                                                                 | Description                                                                                                                                                                 |
+| ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [**PigBiobank**](https://pigbiobank.farmgtex.org/)                   | a large-scale multi-omics database for conveniently exploring the regulatory mechanism of pig complex traits |
+| [**PigGTEx Portal**](https://piggtex.ipiginc.com/) | a web portal providing open access to molecular phenotypes, genotypes and genetic regulatory effects across pig tissues |
+| [**Pig Single Cell Transcriptome Atlas (PCA)**](https://dreamapp.biomed.au.dk/pigatlas/)                                  | an open access database created to facilitate the understanding of cell and organ functions in pigs using single cell RNA sequencing |
 
 ### :compass:   Single-cell atlases, aggregators and databases
 
