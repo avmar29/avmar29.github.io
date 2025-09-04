@@ -104,7 +104,7 @@ Here you can find the links to web resources useful for retrieving information a
 | [**Pathway Commons**](https://www.pathwaycommons.org/)      | access and discover data integrated from public pathway and interactions databases                                                                            |
 | [**BioGRID**](https://thebiogrid.org/)                      | a public database that archives and disseminates genetic and protein interaction data from model organisms and humans                                         |
 | [**STRING**](https://string-db.org/)                        | a biological database and web resource of known and predicted protein–protein interactions; also useful for enrichment analysis of multiple genes or proteins |
-| [**OmniPath ★**](https://string-db.org/)                        | a comprehensive aggregator of molecular interactions, pathways, and biological annotations; has integrated *AI assistant*. |
+| [**OmniPath ★**](https://explore.omnipathdb.org/)                        | a comprehensive aggregator of molecular interactions, pathways, and biological annotations; has integrated *AI assistant*. |
 
 ### :grapes:   Gene set analysis tools
 
